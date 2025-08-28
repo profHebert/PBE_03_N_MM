@@ -9,8 +9,13 @@
     <h1>Aula 2</h1>
     <h2>28/08/2025</h2>
     <?php 
-    echo "<p> testando </p>";
+    
+    echo "<p> testando </p> <br>";
     echo "<p> 1 2 3</p>";
+    echo "<p> olá </p>";
+    
+
     ?>
+    
 </body>
 </html>
