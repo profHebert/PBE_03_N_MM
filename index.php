@@ -8,7 +8,8 @@
 <body>
     <h1>Testando php</h1>
     <?php
-    echo "Comando pelo php novo";
+    
+    echo " <br>  <a type='button' href='second_classrom.php'>aula2</a>";
     ?>
 </body>
 </html>
