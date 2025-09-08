@@ -9,7 +9,7 @@
     <h1>Testando php - 28/08/25</h1>
     <?php
     echo "Comando pelo php novo<br>";
-    echo "hebert";
+    echo "hebert<br>";
     ?>
     <br>
     <a href="pg04_01.php">Vai para pg04_01.php</a><br>
