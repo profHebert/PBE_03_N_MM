@@ -1,6 +1,8 @@
 <?php
 if (session_status() == PHP_SESSION_NONE) { session_start(); } 
 
+include "aula13_menu.php";
+
 $usuario = $_SESSION['usuario'] ;
 $email = $_SESSION['email'] ;
 
